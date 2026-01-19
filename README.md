@@ -8,24 +8,25 @@
 
 ## 📁 Структура Хранилища
 
-Общая структура каталогов и ключевые разделы:
-📦 My_knowledge_wiki  
-├── 📂 Анализ данных  
-│ ├── 📂Виды анализа данных  
-│ ├──📂 Разное
-│ └──📜Введение 
-├── 📂 Картинки (хранилище всех, используемых картинок) 
-├── 📂Математическая статистика
-│ ├──📜Математическая статистика. Начало
-│ ├──📜Мода. Медиана. Генеральная и выборочная средняя
-│ └──📜Статистические оценки параметров генеральной совокупности. Доверительный интервал и доверительная вероятность
-├── 📂Проверка статистических гипотез
-│ └──📜Основы статистических гипотез
-├── 📂Теория вероятностей
-│ └──📜Дисперсия случайно величины
-├──📜.gitignore
-├──📜LICENSE
-└── 📜README.md
+Общая структура каталогов и ключевые разделы:<br>
+📦 My_knowledge_wiki<br>
+├── 📂 Анализ данных<br>
+│ ├── 📂Виды анализа данных<br>
+│ ├──📂 Разное<br>
+│ └──📜Введение <br>
+├── 📂 Картинки (хранилище всех, используемых картинок) <br>
+├── 📂Математическая статистика<br>
+│ ├──📜Математическая статистика. Начало<br>
+│ ├──📜Мода. Медиана. Генеральная и выборочная средняя<br>
+│ └──📜Статистические оценки параметров генеральной совокупности. Доверительный интервал и доверительная вероятность<br>
+├── 📂Проверка статистических гипотез<br>
+│ └──📜Основы статистических гипотез<br>
+├── 📂Теория вероятностей<br>
+│ └──📜Дисперсия случайно величины<br>
+├──📜.gitignore<br>
+├──📜LICENSE<br>
+├──📜Список источников, откуда бралась информация<br>
+└── 📜README.md<br>
 
 ## 🚀 Как Начать
 
@@ -47,9 +48,30 @@
 4. Закоммитьте и отправьте пул-реквест (Pull Request) с описанием изменений.
 
 ## 📝 Лицензия
-Содержимое этого хранилища распространяется под лицензией [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE), если не указано иное.
 
-Это означает, что вы можете свободно делиться и адаптировать материалы, но с указанием авторства и на тех же условиях.
+Содержимое этого хранилища распространяется под лицензией MIT.
+
+MIT License
+
+Copyright (c) 2026 CCF2P
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
